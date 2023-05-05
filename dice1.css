@@ -1,0 +1,65 @@
+body{
+    background-color: #393E46;
+}
+
+h1{
+    font-family:fantasy;
+    font-size: 500%;
+    color: aqua;
+}
+.fo{
+    font-size: 200%;
+    position: fixed;
+    margin-left: 35%;
+    bottom: 0;
+}
+.play{
+    font-size: 200%;
+    font-style: italic;
+    color: aqua;
+    position:absolute;
+    /* text-align: center; */
+    margin-top: 8%;
+    margin-left: 36%;
+    
+
+}
+/* .btn1{
+    color:black;
+    height: 55px;
+    width: 255px;
+    border-radius: 25px;
+    font-weight: 1.5rem;
+    position: absolute;
+    margin-top: 200px;
+    left:180px;
+    cursor: pointer;
+}
+.btn2{
+    color:black;
+    height: 55px;
+    width: 255px;
+    border-radius: 25px;
+    font-weight: 1.5rem;
+    position: absolute;
+    margin-top: 200px;
+   right:10px;
+    cursor: pointer;
+} */
+
+.dice{
+    position: fixed;
+    margin-left: 35%;
+}
+.over{
+   text-align: center;
+}
+
+.dice1{
+    height: 200px;
+    
+}
+.dice2{
+    height: 200px;
+    margin-left: 110%;
+}
